@@ -8,7 +8,7 @@ La aplicación "Menthor" forma parte del Programa Mentor llevado a cabo por la U
 ## ¿Qué información obtiene la aplicación del usuario y como la usa?
 La aplicación "Menthor" requiere de registro de los usuarios usando la cuenta corporativa brindada por la Universidad de Castilla-La Mancha. Nadie fuera de la organización podrá registrarse en esta aplicación. Ésto es así ya que el usuario tendrá que cambiar su contraseña a través de un email que se mandará a su correo electrónico. La gestión de las cuentas registradas se almacena en Firebase, plataforma para el desarrollo de aplicaciones apoyada por Google.
 
-Dentro de la aplicación "Menthor", la única información que se usa tras haber sido obtenida por el usuario son las imagénes que acompañar al perfil de usuario, a las publicaciones y a los retos.
+Dentro de la aplicación "Menthor", la única información que se usa tras haber sido obtenida por el usuario son las imagénes que acompañan al perfil de usuario, a las publicaciones y a los retos.
 
 ## Información obtenida automáticamente
 La aplicación "Menthor" no obtiene información de manera automática.
@@ -27,7 +27,7 @@ Se puede borrar cualquier información del usuario desinstalando la aplicación 
 ## Política de retención de datos, manejando la información
 La aplicación "Menthor" no recoge o comparte ninguna información de manera automática. Solo el identificador del usuario es almacenado de manera local en caso de cerrar la aplicación sin cerrar sesión. Si se cierra esta sesión, ninguna información es almacenada. 
 
-Si se quiere borrar cualquier dato almacenado en la aplicación "Menthor, se puede hacer cerrando sesión o desinstalando la aplicación "Menthor" del dispositivo móvil. Se puede borrar usando los procesos estándares disponibles en el dispositivo o borrándolo del marketplace de aplicaciones del dispositivo.
+Si se quiere borrar cualquier dato almacenado en la aplicación "Menthor", se puede hacer cerrando sesión o desinstalando la aplicación "Menthor" del dispositivo móvil. Se puede borrar usando los procesos estándares disponibles en el dispositivo o borrándolo del marketplace de aplicaciones del dispositivo.
 
 ## Menores de 13 años
 La aplicación "Menthor" no tiene como objetivo ninguna persona por debajo de la edad de 13 años. No se almacena información personal identificable de ninguna persona menor de 13 años. No se usa la aplicación "Menthor" para solicitar datos desde o hacia ninguna persona menor de 13 años. 
