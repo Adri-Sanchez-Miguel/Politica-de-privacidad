@@ -15,24 +15,22 @@ La aplicación "Menthor" no obtiene información de manera automática.
 
 La aplicación "Menthor" no comparte información de manera automática con terceras partes.
 
-* Does the Application collect precise real time location information of the device?
-The Application does not collect precise information about the location of your mobile device.
+* ¿Recoge la aplicación "Menthor" información precisa sobre la ubicación en tiempo real del dispositivo?
+La aplicación "Menthor" no recoge información precisa sobre la ubicación en tiempo real del dispositivo móvil.
 
-* Do third parties see and/or have access to information obtained by the Application?
-Not applicable since the Application does not collect any information automatically.
+* ¿Hay terceras partes que puedan ver o acceder a la información obtenida por la aplicación "Menthor"?
+No aplicable ya que la aplicación no almacena ninguna información automáticamente.
 
-* What are my opt-out rights?
-You can easily delete all User Provided Data by uninstalling the Application from your mobile device. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+* ¿Cuáles son mis derechos "opt-out"?
+Se puede borrar cualquier información del usuario desinstalando la aplicación "Menthor" del dispositivo móvil. Se puede borrar usando los procesos estándares disponibles en el dispositivo o borrándolo del marketplace de aplicaciones del dispositivo.
 
 ## Política de retención de datos, manejando la información
-This Application does not automatically collect, share nor retain any information. All Countdown details are only stored locally on your mobile device, within the Application private folder, following Android’s security best practices.
+La aplicación "Menthor" no recoge o comparte ninguna información de manera automática. Solo el identificador del usuario es almacenado de manera local en caso de cerrar la aplicación sin cerrar sesión. Si se cierra esta sesión, ninguna información es almacenada. 
 
-If you would like to update specific User Provided Data, you may do it directly within the Application, by editing or removing the Countdown(s) in question.
+Si se quiere borrar cualquier dato almacenado en la aplicación "Menthor, se puede hacer cerrando sesión o desinstalando la aplicación "Menthor" del dispositivo móvil. Se puede borrar usando los procesos estándares disponibles en el dispositivo o borrándolo del marketplace de aplicaciones del dispositivo.
 
-If you would like to delete User Provided Data, you may do it by clearing the application's data or by uninstalling the Application from your mobile device. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
-
-## Menores
-Our Application does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. We do not use the Application to knowingly solicit data from or market to children under the age of 13.
+## Menores de 13 años
+La aplicación "Menthor" no tiene como objetivo ninguna persona por debajo de la edad de 13 años. No se almacena información personal identificable de ninguna persona menor de 13 años. No se usa la aplicación "Menthor" para solicitar datos desde o hacia ninguna persona menor de 13 años. 
 
 ## Seguridad
 We are concerned about safeguarding the confidentiality of your information stored locally on your mobile device.
