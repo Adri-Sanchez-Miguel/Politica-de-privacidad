@@ -18,13 +18,13 @@ The Application does not collect any information automatically.
 
 The Application does not share any information automatically with third parties.
 
-## Does the Application collect precise real time location information of the device?
+* Does the Application collect precise real time location information of the device?
 The Application does not collect precise information about the location of your mobile device.
 
-## Do third parties see and/or have access to information obtained by the Application?
+* Do third parties see and/or have access to information obtained by the Application?
 Not applicable since the Application does not collect any information automatically.
 
-## What are my opt-out rights?
+* What are my opt-out rights?
 You can easily delete all User Provided Data by uninstalling the Application from your mobile device. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 ## Data Retention Policy, Managing Your Information
@@ -37,7 +37,7 @@ If you would like to delete User Provided Data, you may do it by clearing the ap
 ## Children
 Our Application does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. We do not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-Security
+## Security
 We are concerned about safeguarding the confidentiality of your information stored locally on your mobile device.
 
 Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches (e.g., a zero-day attack targeting mobile Operating System – OS).
