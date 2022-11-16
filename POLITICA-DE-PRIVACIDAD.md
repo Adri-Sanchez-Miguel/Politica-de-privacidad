@@ -42,19 +42,18 @@ In order to ensure an optimal security, you shall regularly install any Applicat
 We also advise you to regularly check for any Android OS update(s) that could be available and to enable automatic updates.
 
 ## Cambios
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy at [https://github.com/Adri-Sanchez-Miguel/Politica-de-privacidad/blob/main/POLITICA-DE-PRIVACIDAD.md] and update the "Last updated" date at the top of this Privacy Policy.
+La Política de Privacidad puede ser actualizada periódicamente por cualquier motivo. Se notificará sobre cualquier cambio en la Política de Privacidad en [https://github.com/Adri-Sanchez-Miguel/Politica-de-privacidad/blob/main/POLITICA-DE-PRIVACIDAD.md] y se actualizará la fecha de "Ultima actualización" en la parte de arriba de la Política de Privacidad.
 
 Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches (e.g., a zero-day attack targeting mobile Operating System – OS).
 
 You are advised to review this Privacy Policy periodically for any changes, as continued use is deemed approval of all changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 ## Tu consentimiento
-By using the Application, you only consent to the local processing of your information.
+Usando la aplicación "Menthor", consientes solamente el procesamiento de la información.
 
-At any time, no User Provided Data (such as Countdown details) will be shared, processed and/or stored by third parties. User Provided Data cannot and will never be sold to any other third parties.
+En ningún momento, ninguna información de usuario será compartida, procesada y/o almacenada por terceras partes. Los datos de usuario no pueden ni serán vendidos a ninguna tercera parte.
 
 ## Contacto 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at:
-contact [dot] timetocount [at] gmail [dot] com
+Para cualquier duda al respecto de la privacidad mientras se usa la aplicación "Menthor", por favor contacte vía email a: menthor_uclm [at] gmail [dot] com
 
-The "Android" name, the Android logo, the "Google Play" brand, and other Google trademarks, are property of Google LLC and not part of the assets available through the Android Open Source Project.
+El nombre "Android", el logo de Android, la marca "Google Play", y otras trademarks de Google, son propiedad de Google LLC y no son parte de los recursos disponibles a través del Proyecto Open Source de Android.
