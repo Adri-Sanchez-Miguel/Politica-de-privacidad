@@ -1,5 +1,5 @@
-## POLÍTICA DE PRIVACIDAD DE LA APLICACIÓN "Menthor"
-# Últimos cambios: 16 de noviembre de 2022
+# POLÍTICA DE PRIVACIDAD DE LA APLICACIÓN "Menthor"
+## Últimos cambios: 16 de noviembre de 2022
 
 This privacy policy governs your use of the software application “Time to Count” (later referred as the/this “Application”) for Android™ mobile devices that was created by Antoine Auger.
 
