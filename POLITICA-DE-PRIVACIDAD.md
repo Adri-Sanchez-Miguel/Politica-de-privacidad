@@ -5,7 +5,7 @@ Esta política de privacidad gobierna el uso de la aplicación "Menthor" para di
 
 La aplicación "Menthor" forma parte del Programa Mentor llevado a cabo por la Universidad de Castilla-La Mancha, cuyo objetivo es fomentar la mentorización entre profesores y alumnos, intentando conectarlos en "Menthor" a través de retos y publicaciones.
 
-## ¿Qué información obtiene la aplicación del usuario y como la usa?
+## ¿Qué información obtiene la aplicación del usuario y cómo la usa?
 La aplicación "Menthor" requiere de registro de los usuarios usando la cuenta corporativa brindada por la Universidad de Castilla-La Mancha. Nadie fuera de la organización podrá registrarse en esta aplicación. Ésto es así ya que el usuario tendrá que cambiar su contraseña a través de un email que se mandará a su correo electrónico. La gestión de las cuentas registradas se almacena en Firebase, plataforma para el desarrollo de aplicaciones apoyada por Google.
 
 Dentro de la aplicación "Menthor", la única información que se usa tras haber sido obtenida por el usuario son las imagénes que acompañan al perfil de usuario, a las publicaciones y a los retos.
