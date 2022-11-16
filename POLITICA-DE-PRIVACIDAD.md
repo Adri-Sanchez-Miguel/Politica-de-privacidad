@@ -33,20 +33,20 @@ Si se quiere borrar cualquier dato almacenado en la aplicación "Menthor, se pue
 La aplicación "Menthor" no tiene como objetivo ninguna persona por debajo de la edad de 13 años. No se almacena información personal identificable de ninguna persona menor de 13 años. No se usa la aplicación "Menthor" para solicitar datos desde o hacia ninguna persona menor de 13 años. 
 
 ## Seguridad
-We are concerned about safeguarding the confidentiality of your information stored locally on your mobile device.
+Se procura la seguridad y confidencialidad de la información almacenada locamente en tu dispositivo móvil.
 
-Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches (e.g., a zero-day attack targeting mobile Operating System – OS).
+Se debe tener en cuenta que, aunque se provee una razonable seguridad en la información procesada, ningún sistema es 100% seguro y puede prevenir cualquier potencial brecha de seguridad (por ejemplo, un ataque de día 0 que ataque al Sistema Operativo).
 
-In order to ensure an optimal security, you shall regularly install any Application’s update available from the mobile application marketplace.
+Para asegurar una seguridad óptima, deber instalar regularmente cualquier actualización que tenga disponible la aplicación "Menthor" a través del marketplace de aplicaciones.
 
-We also advise you to regularly check for any Android OS update(s) that could be available and to enable automatic updates.
+Se recomienda al usuario comprobar regularmente cualquier actualización del sistema operativo de Android que pueda estar disponible y permitir actualizaciones automáticas del sistema.
 
 ## Cambios
 La Política de Privacidad puede ser actualizada periódicamente por cualquier motivo. Se notificará sobre cualquier cambio en la Política de Privacidad en [https://github.com/Adri-Sanchez-Miguel/Politica-de-privacidad/blob/main/POLITICA-DE-PRIVACIDAD.md] y se actualizará la fecha de "Ultima actualización" en la parte de arriba de la Política de Privacidad.
 
-Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches (e.g., a zero-day attack targeting mobile Operating System – OS).
+Se debe tener en cuenta que, aunque se provee una razonable seguridad en la información procesada, ningún sistema es 100% seguro y puede prevenir cualquier potencial brecha de seguridad (por ejemplo, un ataque de día 0 que ataque al Sistema Operativo).
 
-You are advised to review this Privacy Policy periodically for any changes, as continued use is deemed approval of all changes. Changes to this Privacy Policy are effective when they are posted on this page.
+Se recomienda revisar esta Política de Privacidad periódicamente para cualquier cambio. Cambios en esta Política de Privacidad serán efectivos cuando se publiquen en esta página.
 
 ## Tu consentimiento
 Usando la aplicación "Menthor", consientes solamente el procesamiento de la información.
@@ -54,6 +54,7 @@ Usando la aplicación "Menthor", consientes solamente el procesamiento de la inf
 En ningún momento, ninguna información de usuario será compartida, procesada y/o almacenada por terceras partes. Los datos de usuario no pueden ni serán vendidos a ninguna tercera parte.
 
 ## Contacto 
-Para cualquier duda al respecto de la privacidad mientras se usa la aplicación "Menthor", por favor contacte vía email a: menthor_uclm [at] gmail [dot] com
+Para cualquier duda al respecto de la privacidad mientras se usa la aplicación "Menthor", por favor contacte vía email a: 
+menthor.uclm@gmail.com
 
 El nombre "Android", el logo de Android, la marca "Google Play", y otras trademarks de Google, son propiedad de Google LLC y no son parte de los recursos disponibles a través del Proyecto Open Source de Android.
